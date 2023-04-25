@@ -8,3 +8,4 @@
 - 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/umar-mustafa-aba97722a/ 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I don't know how to get angry
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mustafaumar)](https://git.io/streak-stats)
