@@ -1,5 +1,5 @@
-### Hi there, I'm Umar 👋
 
+<h1>Hi, I am Mustafa Umar👋</h1>
 - 🔭 I’m currently working on javascript projects.
 - 🌱 I’m currently learning Javascript (ReactJs)
 - 👯 I’m looking to collaborate on real life projects
