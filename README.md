@@ -12,6 +12,11 @@
 ### 🛠️ Tools & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,azure,git,vscode" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zeek-000000?style=flat-square&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suricata-CC0000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
