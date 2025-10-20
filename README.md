@@ -13,16 +13,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,azure,git,vscode" />
 </p>
-Technologies that I use:<br />
-- Languages: HTML, CSS, Javascript, React.<br />
-- Libraries:** React, React-Redux, Styled-components.<br />
-- Deployments:  Vercel, Netlify, Firebase.<br />
-- Frameworks: Tailwind.<br />
-- Tools: Git, NPM, VSCode.<br />
-- I’m looking into tailwind and CSS frameworks. I enjoy styling projects
-<br />
-- ⚡ Fun fact: I love compliments so much and you must know how to pronounce my name well
-<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zeek-000000?style=flat-square&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suricata-CC0000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+</p>
+
 You can reach out to me via <a href="omustafaumar@gmail.com">Email</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mustafaumar)](https://git.io/streak-stats)
