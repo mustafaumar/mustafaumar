@@ -1,16 +1,18 @@
-<p align="center">
- Hello 👋
-  <h1 align="center"><a href="#">I'm Mustafa Umar</a></h1>
-  <p align="center"> Software Developer || ReactJS Developer || CyberSecurity Enthusiast
-</p>
+
+  <h1 align="center">Hey there 👋, I'm Umar Mustafa</h1>
+  <h3 align="center">Security Analyst | Blue Teamer | Threat Detection Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/umar-mustafa-aba97722a/">LinkedIn</a> |
-  <a href="https://twitter.com/real_omotayo">Twitter</a>
+  <a href="https://www.linkedin.com/in/umar-mustafa-omotayo/">LinkedIn</a> |
+  <a href="https://x.com/oomootayoo">Twitter</a>
 </p>
 <br />
 <p align='center'>I'm a front-end developer passionate about building secure, user-friendly web applications.</p>
 <br />
+### 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,azure,git,vscode" />
+</p>
 Technologies that I use:<br />
 - Languages: HTML, CSS, Javascript, React.<br />
 - Libraries:** React, React-Redux, Styled-components.<br />
